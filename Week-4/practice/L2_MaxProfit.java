@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class L2_MaxProfit {
 
     public static int maxProfit(int[] prices) {
